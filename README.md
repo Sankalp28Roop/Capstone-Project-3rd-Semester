@@ -1,25 +1,23 @@
-PERSONAL BUDGET TRACKER 
-A modern personal & group finance platform with smart insights, recurring automation, anomaly detection, and goal motivation — built with React + TypeScript + Express + MongoDB.
+                                                       💰 PERSONAL BUDGET TRACKER 
+
+A modern personal & group finance platform with smart insights, recurring automation, anomaly detection, and goal motivation — built with  HTML, CSS, JS + JavaScript + Noje.js + MongoDB.
 
 
 
 
-![Diagram project structure ](https://github.com/user-attachments/assets/ad939e9f-5e90-4860-912a-585247e9e670)![Database ER Diagram](https://github.com/user-attachments/assets/d3575875-80ff-4823-860d-ff418d522027)![System UML Diagrams](https://github.com/user-attachments/assets/75ad6c88-1020-47c5-90d3-3411901e7f14)# Personal Budget Tracker
-
-> Comprehensive Personal & Group Expense Management App
-
+![Diagram project structure ](https://github.com/user-attachments/assets/ad939e9f-5e90-4860-912a-585247e9e670)![Database ER Diagram](https://github.com/user-attachments/assets/d3575875-80ff-4823-860d-ff418d522027)![System UML Diagrams](https://github.com/user-attachments/assets/75ad6c88-1020-47c5-90d3-3411901e7f14)# 
 ---
 
 ## Table of Contents
 
-1. Project Overview
-2. Features
-3. Recommended tech Stack
-4. Project Structure
-5. Database ER Diagram 
-6. System UML (Class & Component) Diagrams 
-7. Key Sequence Diagrams 
-8. API Reference (endpoints, payloads, responses)
+# 📖 Project Overview  
+# ✨ Features  
+# 🛠️ Recommended Tech Stack  
+# 📂 Project Structure  
+# 🗄️ Database ER Diagram  
+# 🧩 System UML (Class & Component) Diagrams  
+# 🔄 Key Sequence Diagrams  
+# 🌐 API Reference (endpoints, payloads, responses)
 
 ---
 
