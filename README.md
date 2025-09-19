@@ -79,6 +79,7 @@ financeflow-backend/
 ```
 ![Uploading Diagram projec<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 2264.773193359375px;" viewBox="0.0000152587890625 0 2264.773193359375 346.0000305175781" role="graphics-document document" aria-roledescription="flowchart-v2"><style xmlns="http://www.w3.org/1999/xhtml">/* Google Inc.
 
+<img width="1329" height="1000" alt="Screenshot 2025-09-19 at 4 24 10 PM" src="https://github.com/user-attachments/assets/53660daa-e0f6-4286-9930-bae83e9e1813" />
 
 ---
 
